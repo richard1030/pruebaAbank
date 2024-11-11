@@ -73,3 +73,4 @@ C:\Users\Gato\source\repos\LoginService\LoginService\obj\Debug\net8.0\refint\Log
 C:\Users\Gato\source\repos\LoginService\LoginService\obj\Debug\net8.0\LoginService.pdb
 C:\Users\Gato\source\repos\LoginService\LoginService\obj\Debug\net8.0\LoginService.genruntimeconfig.cache
 C:\Users\Gato\source\repos\LoginService\LoginService\obj\Debug\net8.0\ref\LoginService.dll
+C:\Users\Gato\source\repos\LoginService\LoginService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

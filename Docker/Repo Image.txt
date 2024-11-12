@@ -1,0 +1,6 @@
+repo docker hub > https://hub.docker.com/r/richard1030/servicestask/tags
+
+Comando docker pull richard1030/servicestask:v1
+
+
+Digest > sha256:975011be540323fe219bd688314f4e751496bd8e3b197bab8b36e8af233bd029
